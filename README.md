@@ -1,34 +1,62 @@
-# CeylonMine
+# 🪨 CeylonMine – Smart Mineral Management for a Sustainable Future
 
-**CeylonMine** is a smart platform designed to revolutionize the quarrying and mining industry in Sri Lanka. It aims to bring transparency, efficiency, and sustainability to mineral extraction, licensing, and export management processes.
+**CeylonMine** is a next-generation digital platform designed to streamline and modernize the mining and quarrying industry in Sri Lanka. By integrating cutting-edge technologies like AR, real-time monitoring, and automated documentation, CeylonMine empowers regulatory authorities, miners, exporters, and environmental bodies to collaborate efficiently and transparently.
 
-## 🌍 Key Features
+---
 
-- **Mineral License Management** – Apply, renew, and track quarry licenses digitally.
-- **AR-Based Quarry Visualization** – Use Augmented Reality to view mineral sites and boundary lines.
-- **Real-Time Environmental Monitoring** – Track biodiversity, pollution, and energy use near mining sites.
-- **Product Quality Tracking** – Monitor and log the quality of extracted minerals from quarry to export.
-- **Export & Royalty Management** – Automate documentation and royalty calculation for mineral exports.
-- **Illegal Activity Detection** – Map-based monitoring to detect unlicensed or harmful activities.
+## 🔍 Overview
 
-## 🔧 Technologies Used
+The mining sector in Sri Lanka faces major challenges: lack of transparency, inefficient licensing, poor data tracking, and environmental harm.  
+**CeylonMine** addresses these problems through a unified digital ecosystem that enables:
 
-- **Frontend:** Next.js / React
-- **Backend:** Node.js / Express / Nest.js
-- **Database:** PostgreSQL / MongoDB
-- **Authentication:** Clerk / Firebase Auth
-- **AR Integration:** Kiri Engine API (or any preferred AR SDK)
-- **Cloud:** Vercel / AWS / Render
+- 🌐 Transparent license management  
+- 🔎 AR-powered quarry visualization  
+- 📊 Real-time environmental monitoring  
+- 📦 Export tracking and royalty automation  
+- 🚨 Illegal mining detection and reporting  
+
+---
+
+## 🧩 Core Features
+
+### 🪪 License & Quarry Management  
+Apply, renew, track, and monitor quarry licenses with full digital documentation and status alerts.
+
+### 📍 AR Quarry Mapping  
+Visualize mine boundaries and excavation zones with Augmented Reality tools for field inspections.
+
+### 🌿 Environmental Monitoring  
+Track pollution levels, biodiversity impact, and energy consumption using real-time data feeds.
+
+### 📦 Export & Royalty Module  
+Automate royalty calculation and generate legal documents for mineral exports with compliance reports.
+
+### ⚠️ Illegal Activity Detection  
+Utilize map-based monitoring and pattern detection to flag unlicensed or environmentally harmful operations.
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer        | Technology                     |
+|--------------|-------------------------------|
+| Frontend     | Next.js, React, Tailwind CSS  |
+| Backend      | Node.js, NestJS, Express      |
+| Database     | PostgreSQL / MongoDB          |
+| Authentication | Clerk / Firebase Auth        |
+| AR Integration | Kiri Engine API / WebXR      |
+| Hosting      | Vercel / AWS / Render         |
+
+---
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### ✅ Prerequisites
+- Node.js >= 18.x  
+- PostgreSQL or MongoDB  
+- Clerk/Firebase project setup  
 
-- Node.js v18+
-- PostgreSQL / MongoDB
-- Clerk/Firebase account for auth
-
-### Installation
+### 📦 Installation
 
 ```bash
 git clone https://github.com/yourusername/ceylonmine.git
